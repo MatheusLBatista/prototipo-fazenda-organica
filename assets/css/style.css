@@ -48,3 +48,29 @@
     padding: 12px 40px;
     margin-bottom: 40px;
 }
+
+main {
+    margin: 40px 80px;
+}
+
+.card-gallery {
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+}
+
+.card {
+    border: 1px solid red;
+    width: 384px;
+}
+
+.card-heading{
+    height: 248px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-heading h1 {
+    
+}
